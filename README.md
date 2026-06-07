@@ -4,8 +4,8 @@ This repository contains my data analytics, statistics, and machine learning pro
 
 My background combines public health, healthcare management, and data analytics with a growing focus on healthcare-related machine learning and statistical analysis.
 
-Projects
-1. Diabetes Risk Prediction using Machine Learning
+##Projects
+###1. Diabetes Risk Prediction using Machine Learning
 
 Machine learning classification project focused on predicting diabetes risk using demographic and clinical patient data.
 
@@ -21,7 +21,7 @@ healthcare analytics
 Folder:
 01_diabetes_prediction
 
-2. Statistical Hypothesis Testing & Correlation Analysis
+###2. Statistical Hypothesis Testing & Correlation Analysis
 
 Statistical analysis project demonstrating t-tests, Welch’s t-test, Wilcoxon test, and correlation analysis using Python.
 
@@ -35,7 +35,7 @@ statistical interpretation
 Folder:
 02_statistical_hypothesis_testing
 
-3. Tech Salary Data Analysis with Pandas
+###3. Tech Salary Data Analysis with Pandas
 
 Exploratory data analysis project focused on salary trends, compensation analysis, and company-level insights.
 
@@ -49,7 +49,7 @@ data visualization
 Folder:
 03_salary_analysis
 
-Tools & Technologies
+##Tools & Technologies
 Python
 Pandas
 NumPy
@@ -57,7 +57,7 @@ Scikit-learn
 SciPy
 Matplotlib
 Seaborn
-About Me
+##About Me
 
 I am a public health professional with a Master’s degree in Health Management, Planning and Policy from the University of Leeds.
 
