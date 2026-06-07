@@ -1,11 +1,11 @@
-Diabetes Risk Prediction using Machine Learning
-Project Overview
+#Diabetes Risk Prediction using Machine Learning
+##Project Overview
 
 This project focuses on predicting diabetes risk using demographic and clinical patient data.
 
 The goal was to build a machine learning classification model capable of identifying patients at increased risk of diabetes and supporting early risk detection through healthcare analytics.
 
-Dataset Features
+##Dataset Features
 Age
 Gender
 BMI
@@ -16,7 +16,7 @@ HbA1c level
 Blood glucose level
 Machine Learning Pipeline
 
-The project includes:
+##The project includes:
 
 Exploratory Data Analysis (EDA)
 Missing value handling
