@@ -5,7 +5,7 @@ This project demonstrates statistical hypothesis testing and correlation analysi
 
 The analysis includes independent and paired t-tests, Welch’s t-test, Wilcoxon test, and correlation analysis on multiple datasets.
 
-Topics Covered
+##Topics Covered
 Statistical hypothesis testing
 Independent t-test
 Paired t-test
