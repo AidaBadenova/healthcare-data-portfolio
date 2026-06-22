@@ -1,73 +1,89 @@
-#Healthcare Data Analytics Portfolio
+# Healthcare Data & AI Portfolio
 
-This repository contains my data analytics, statistics, and machine learning projects developed during my Data Science studies at nFactorial School.
+Healthcare analytics, machine learning, SQL, statistics, 
+and AI projects developed as part of my transition 
+from Public Health to HealthTech AI and Data Science.
 
-My background combines public health, healthcare management, and data analytics with a growing focus on healthcare-related machine learning and statistical analysis.
+---
 
-##Projects
-###1. Diabetes Risk Prediction using Machine Learning
+## About Me
 
-Machine learning classification project focused on predicting diabetes risk using demographic and clinical patient data.
+Healthcare professional with an MSc in Health Management, 
+Planning and Policy from the University of Leeds (UK) 
+and more than 10 years of experience in public health, 
+epidemiology, healthcare policy, and healthcare management.
 
-Key topics:
+Currently expanding expertise in Data Science, Machine 
+Learning, and Healthcare AI through hands-on projects 
+focused on clinical data analytics, medical decision 
+support, and healthcare information systems.
 
-classification
-imbalance handling
-threshold tuning
-ROC-AUC evaluation
-feature importance
-healthcare analytics
+My goal is to bridge healthcare domain expertise with 
+data-driven and AI-powered solutions that improve 
+healthcare delivery and patient outcomes.
 
-Folder:
-01_diabetes_prediction
+📍 Astana, Kazakhstan  
+🔗 [LinkedIn](https://www.linkedin.com/in/aida-badenova-35895a3b4)
 
-###2. Statistical Hypothesis Testing & Correlation Analysis
+---
 
-Statistical analysis project demonstrating t-tests, Welch’s t-test, Wilcoxon test, and correlation analysis using Python.
+## Projects
 
-Key topics:
+### 01. Diabetes Risk Prediction
+Machine learning model for diabetes risk prediction 
+using demographic and clinical patient data.  
+**Key Result: F1-score = 0.815**  
+`Python` `Scikit-learn` `Optuna` `Random Forest`
 
-statistical hypothesis testing
-correlation analysis
-data visualization
-statistical interpretation
+### 02. Statistical Hypothesis Testing & Correlation Analysis
+Statistical analysis covering Pearson correlation, 
+t-tests, Welch's test, and Wilcoxon test.  
+`Python` `NumPy` `SciPy` `Statistics`
 
-Folder:
-02_statistical_hypothesis_testing
+### 03. IT Salary Analysis
+Exploratory data analysis of salary trends 
+and compensation patterns.  
+`Python` `Pandas` `Matplotlib`
 
-###3. Tech Salary Data Analysis with Pandas
+### 04. Healthcare SQL Analytics
+SQL analysis of patient visits, diagnoses, 
+physician workload, and MSHI (OSMS) coverage.  
+`SQL` `SQLite` `Python` `Healthcare`
 
-Exploratory data analysis project focused on salary trends, compensation analysis, and company-level insights.
+### 05. AI Clinical Notes Structuring
+AI extraction of symptoms, diagnoses, medications, 
+and vital signs from physician notes.  
+`Python` `NLP` `Prompt Engineering` `Healthcare AI`
 
-Key topics:
+### 06. ICD-10 Coding Assistant
+AI prototype for mapping clinical diagnoses 
+to ICD-10 codes for MSHI (OSMS) reporting.  
+`Python` `ICD-10` `Healthcare AI`
 
-exploratory data analysis
-salary trends
-Pandas operations
-data visualization
+---
 
-Folder:
-03_salary_analysis
+## Technologies
 
-##Tools & Technologies
-Python
-Pandas
-NumPy
-Scikit-learn
-SciPy
-Matplotlib
-Seaborn
-##About Me
+`Python` `SQL` `Pandas` `NumPy` `Scikit-learn`  
+`Optuna` `Machine Learning` `Healthcare Analytics`  
+`Health Informatics` `ICD-10` `Statistical Analysis`  
+`Prompt Engineering` `Clinical Data Analysis`
 
-I am a public health professional with a Master’s degree in Health Management, Planning and Policy from the University of Leeds.
+---
 
-Currently I am expanding my expertise in Data Science and Healthcare Analytics at nFactorial School.
+## Career Objective
 
-I am particularly interested in healthcare analytics, machine learning, AI-driven analytics, and data-informed decision making.
+I am seeking opportunities at the intersection of 
+Healthcare, Data Science, and Artificial Intelligence, 
+with a particular interest in healthcare analytics, 
+clinical data processing, medical AI applications, 
+and digital health transformation.
 
-Author
+---
 
-Aida Badenova
+## Author
 
-LinkedIn:
-www.linkedin.com/in/aida-badenova-35895a3b4
+**Aida Badenova**  
+Healthcare Data Analyst | HealthTech AI | Public Health  
+MSc University of Leeds | nFactorial School 2026  
+[LinkedIn](https://www.linkedin.com/in/aida-badenova-35895a3b4)
